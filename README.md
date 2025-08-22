@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @pythonpro1987
-- 👀 I’m interested in python and django
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development project
-- 📫 How to reach me you can reach me through "abuhuroyra@yahoo.com" Whatapp "01929499277"
-- 😄 Pronouns: he
-- ⚡ Fun fact: self taught
+# 👋 Hi, I'm Abu Huroyra  
 
-<!---
-pythonpro1987/pythonpro1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in **Python** and **Django**  
+🌱 I’m currently doing **Web Development**  
+💞️ I’m looking to collaborate on **Web Development Projects**  
+📫 Reach me at: [abuhuroyra@yahoo.com](mailto:abuhuroyra@yahoo.com) | WhatsApp: +880 1929499277  
+😄 Pronouns: he  
+⚡ Fun fact: Self-taught developer  
+
+## 🔥 Codewars Stats  
+[![Codewars Badge](https://www.codewars.com/users/pythonpro1987/badges/large)](https://www.codewars.com/users/pythonpro1987)
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pythonpro1987&show_icons=true&theme=radical)
+
+## 🚀 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythonpro1987&layout=compact&theme=radical)
