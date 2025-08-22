@@ -8,12 +8,9 @@
 ⚡ Fun fact: Self-taught developer  
 
 ---
-
 ## 🔥 Codewars Stats
 
-[![Codewars Badge](https://www.codewars.com/users/pythonpro1987/badges/large)](https://www.codewars.com/users/pythonpro1987)
-
----
+[![Codewars Badge](https://www.codewars.com/users/abuhuroyra/badges/large)](https://www.codewars.com/users/abuhuroyra)
 
 ## 🐍 Tech & Skills
 
